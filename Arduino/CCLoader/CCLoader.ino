@@ -84,10 +84,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #define RECEIVING             0x01
 
 // Debug control pins & the indicate LED
-int DD = 6;
-int DC = 5;
-int RESET = 4;
-int LED = 13;
+int DD = 12;
+int DC = 14;
+int RESET = 2;
+int LED = 16;
 
 /******************************************************************************
  VARIABLES*/
